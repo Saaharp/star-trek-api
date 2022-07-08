@@ -15,7 +15,7 @@ let db,
 
 MongoClient.connect(dbConnectionStr)
     .then(client => {
-        console.log('Connected to Database')
+        console.log(`Connected to  ${dbName} Database`)
          db = client.db(dbName)
         const infoCollection = db.collection('alien-info')
 
