@@ -34,7 +34,7 @@ MongoClient.connect(dbConnectionStr)
     })
     
 })
-.catch(error => console.eroor(error))
+.catch(error => console.error(error))
 
 app.listen( process.env.PORT|| PORT, () => {
     console.log(`server is running on port ${PORT}!`)
