@@ -16,7 +16,7 @@ My goal in creating this app was to gain a better understanding of the server-da
 Ensure database connection string and node_modules files are added to the  .gitignore file to protect the database and minimize the file size.
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at a couple of these examples that I have in my own portfolio:
 
 **NFL Team Names:** https://football-app-api.herokuapp.com/
 
