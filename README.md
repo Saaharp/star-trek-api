@@ -18,9 +18,9 @@ Ensure database connection string and node_modules files are added to the  .giti
 ## Examples:
 Take a look at a couple of these examples that I have in my own portfolio:
 
-**NFL Team Names:** https://football-app-api.herokuapp.com/
+**NFL Team Names:** https://github.com/Saaharp/nfl-app
 
-**Random Recipe Picker:** https://whatareyoueating.netlify.app/
+**Random Recipe Picker:** https://github.com/Saaharp/api-meal-db
 
-**Musician Biogaphy:** https://musicianbio.netlify.app/
+**Musician Biogaphy:** https://github.com/Saaharp/api-musician
 
