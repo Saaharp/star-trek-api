@@ -18,9 +18,9 @@ Ensure database connection string and node_modules files are added to the  .giti
 ## Examples:
 Take a look at a couple of these examples that I have in my own portfolio:
 
-**NFL Team Names:** https://github.com/Saaharp/nfl-app
-
 **Random Recipe Picker:** https://github.com/Saaharp/api-meal-db
 
-**Musician Biogaphy:** https://github.com/Saaharp/api-musician
+**The Hotel Helper App:** https://github.com/Saaharp/the-hotel-helper
+
+**Java Xpress App:** https://github.com/Saaharp/Java-Xpress
 
